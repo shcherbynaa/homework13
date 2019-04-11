@@ -2,7 +2,6 @@ package mate.hw13.sql;
 
 import util.JdbcConnectionUtil;
 
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
 

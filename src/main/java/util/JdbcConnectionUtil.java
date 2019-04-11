@@ -25,7 +25,5 @@ public class JdbcConnectionUtil {
         }
         return null;
     }
-
-
 }
 
