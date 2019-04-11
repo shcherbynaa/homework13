@@ -26,4 +26,3 @@ INNER JOIN projects ON dev_proj.proj_id=projects.id
 GROUP BY dev_proj.proj_id
 ORDER BY SUM(developers.salary)
 LIMIT 1;
-
